@@ -37,7 +37,7 @@ gem install spotify-metadata
 or when using Bundler:
 
 ```ruby
-gem 'spotify-metadata', :require => 'spotify, :git => 'git://github.com/britishtea/spotify.git'
+gem 'spotify-metadata', :require => 'spotify', :git => 'git://github.com/britishtea/spotify.git'
 ```
 
 # Known Bugs
